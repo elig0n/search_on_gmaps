@@ -1,0 +1,6 @@
+{
+    "contextItemOpenInMaps": {
+        "message": "Cerca su Google Maps",
+        "description": "Searches the selected text on Google Maps in a new tab"
+    }
+}
